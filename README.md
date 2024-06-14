@@ -1,6 +1,9 @@
 # math-hub
 
-后端在
+后端在[math-hub-backend](https://github.com/xianggeng0/math-hub-backend.git)
+
+如图：
+
 
 ## IDE Setup
 
