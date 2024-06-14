@@ -4,6 +4,8 @@
 
 如图：
 
+![math-hub-gif](https://github.com/xianggeng0/math-hub-frontend/assets/143009989/9fb87d3a-d0a3-4a28-b41e-95e34e9ba2c2)
+
 
 ## IDE Setup
 
